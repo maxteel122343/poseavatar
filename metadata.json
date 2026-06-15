@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: Remix: AR Pet Detector",
+  "description": "AR environment detecting dogs and cats to interact with a 3D Avatar.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
